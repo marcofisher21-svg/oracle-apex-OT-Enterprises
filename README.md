@@ -27,10 +27,10 @@ This showcases my understanding and how I use what I learnt to create this app o
 ## SQL Queries
 See `/sql/queries.sql` for all analytics queries.
 
-## 📧 Contact
+## Contact
 Marco Erin Fisher 
-[Your LinkedIn URL]  
-[marcofisher21@gmail.com]
+https://www.linkedin.com/in/marco-fisher-a768a13b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+marcofisher21@gmail.com
 
 ---
 
