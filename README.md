@@ -9,7 +9,7 @@ This showcases my understanding and how I use what I learnt to create this app o
 `https://oracleapex.com/ords/r/oratudaba/ot-enterprise-insights/login`
 
 **Demo Login Credentials:**
-- Username: `Demo_user`  
+- Username: `Demo_viewer`  
 - Password: `insighter`
 
 ## Features
